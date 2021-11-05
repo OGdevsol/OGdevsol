@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @OGdevsol. I'm an IT graduate with a keen eye for detail and exceptional research skills. I 
+- 👋 Hi, I’m @OGdevsol. I'm an IT graduate with a keen eye for detail and exceptional research skills. 
 - 👀 I’m interested in gaming, tech news, new gadgets, PC hardware, reading, and travelling.
-- 🌱 I’m currently learning and perfecting my knowledge of Unreal Engine and C++.
-- 💞️ I’m looking to collaborate on a AAA title with a top studio. It is one of my ultimate life goals.
+- 🌱 I’m currently working as a 3D game developer
+- 💞️ I’m looking to polish my skills to such an extent that I'm able to work with a top grade AAA studio and make my dream come true
 - 📫 How to reach me: +92 3468183377, umaramin3377@gmail.com
 
 <!---
