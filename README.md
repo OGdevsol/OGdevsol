@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OGdevsol. I'm an IT graduate with a keen eye for detail and exceptional research skills. 
-- 👀 I’m interested in gaming, tech news, new gadgets, PC hardware, reading, and travelling.
+- 👀 I’m interested in gaming, tech news, new gadgets, PC hardware, reading, and travelling. My desired skill to acquire in the upcoming year is NPC AI design and development, Games' AI in general.
 - 🌱 I’m currently working as a 3D game developer
-- 💞️ I’m looking to polish my skills to such an extent that I'm able to work with a top grade AAA studio and make my dream come true
+- 💞️ I’m looking to polish my skills to such an extent that I'm able to contribute my services to a top grade AAA studio 
 - 📫 How to reach me: +92 3468183377, umaramin3377@gmail.com
 
 <!---
